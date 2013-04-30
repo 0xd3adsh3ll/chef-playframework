@@ -1,0 +1,6 @@
+default[:play_framework][:version] = "1.2.4"
+default[:play_framework][:url] = "http://downloads.typesafe.com/releases/play-1.2.4.zip"
+default[:play_framework][:install_dir] = "/opt/"
+default[:play_framework][:set_env_path] = "/opt/play-1.2.4"
+default[:play_framework][:tmp_dir] = "/tmp"
+default[:play_framework][:filename] = "play.zip"
